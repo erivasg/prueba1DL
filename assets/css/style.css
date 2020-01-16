@@ -1,0 +1,35 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.bg-sunset {
+    background-color: #FB7F64;
+    color: #3C303E;
+}
+
+.bg-bane {
+    background-color: #3C303E;
+    color: #C6B895 !important;
+}
+
+.bg-desert {
+    background-color: #C6B895;
+    color: #F5EEE2;
+}
+
+.bg-bechamel {
+    background-color: #F5EEE2;
+    color: #FB7F64;
+}
+
+.text-bane {
+    color: #3C303E !important;
+}
+
+#myName {
+    margin-top: 25%;
+}
+
+footer > a {
+    color: #3C303E;
+}
