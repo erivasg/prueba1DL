@@ -33,3 +33,11 @@ body {
 footer > a {
     color: #3C303E;
 }
+
+.carousel-indicators {
+    top: 300px;
+}
+
+.card, .card-body {
+    background-color: #3C303E;
+}
